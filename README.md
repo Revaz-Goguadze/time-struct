@@ -1,6 +1,12 @@
-# The Time Struct
+# The Time Struct 
 
-## Task description
+Intermediate level task for practicing structures.
+
+Estimated time to complete the task - 1h.
+
+The task requires .NET 6 SDK installed.
+
+## Task Details
 Design a *immutable* struct `Time` (add code in [Time.cs](TimeStruct/Time.cs#L1) file in `TimeStruct Project`) that represents the times in `24`-hours format without date according to the following requirements.    
 - The `Time` struct should have two constructors.
     - First `Time` constructor has an integer parameter `minutes`. 
